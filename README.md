@@ -7,7 +7,9 @@ In this recruiting competition, job-seekers are provided with historical sales d
 
 ## Purposes Of The Project
 The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
-
+> I led a comprehensive data analysis project leveraging SQL within the retail sector, specifically focusing on a Walmart dataset.
+> This initiative involved exploring various aspects of the business, ranging from product performance to customer behavior and payment methods. 
+> Key insights were derived to inform strategic decision-making and optimize operational efficiency.
 ## About Data
 The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
 
